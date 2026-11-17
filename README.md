@@ -1,5 +1,7 @@
 # 🚀 10-Day React.js Journey - From Hello World to Hero 💥
 
+How is it? 
+
 > _“React: Because regular HTML was just too boring.”_
 
 ![React Animation](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
